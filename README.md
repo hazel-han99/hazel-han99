@@ -8,7 +8,7 @@
 
 ## 🧸contact
 <a href="https://tbxl67-programming.tistory.com/"><img src="https://img.shields.io/badge/Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://tbxl67-programming.tistory.com/"/></a>
-<a href="mailto:tbxl67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:tbxl67@gmail.com"/></a>
+<a href="mailto:tbxl67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbxl67@gmail.com"/></a>
 <br>
 
 ## 👑Skills
