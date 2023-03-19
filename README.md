@@ -3,7 +3,7 @@
 
 ## Hello! This is Hazel Han's github world
 
-### I am learning about fullstack development.</p>
+### I am learning about back-end development intensively.</p>
 <br>
 
 ## 🧸contact
